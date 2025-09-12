@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>NAME:Varadaram SK R</h3>
+<h3>NAME:Varadaram SK </h3>
 <h3>REGISTER NO:212223040232</h3>
 <h3>EX. NO:02</h3>
 <h3>DATE:12/09/2025</h3>
